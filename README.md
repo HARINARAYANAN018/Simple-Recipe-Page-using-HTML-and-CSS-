@@ -13,9 +13,9 @@ The First challenge is quite simple, just creating a simple Recipe page on your 
 
 This challenge need a basic understanding of HTML and CSS.
 
-This folder also contain the necessary Images and Font which you can find in assets folder.
+This folder also contain the necessary Images and Favicon of frontend mentor.
 
-The final outlook of the challenge is located in image folder which contain both in desktop and mobile version.
+The final outlook of the challenge contain both in desktop and mobile version.
 
 For Feedback contact to gmail:  onlystudyfansown@gmail.com
 
